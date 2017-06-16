@@ -36,14 +36,14 @@
   },
   "homepage": "https://github.com/rocknrolla777/loopback-cascade-delete-mixin#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "debug": "^2.3.3",
-    "loopback": "^2.36.0",
-    "mocha": "^3.2.0",
-    "sinon": "^1.17.6",
-    "sinon-chai": "^2.8.0"
+    "chai": "^4.0.2",
+    "debug": "^2.6.8",
+    "loopback": "^3.8.0",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.4",
+    "sinon-chai": "^2.11.0"
   },
   "dependencies": {
-    "lodash": "^4.17.2"
+    "lodash": "^4.17.4"
   }
 }
